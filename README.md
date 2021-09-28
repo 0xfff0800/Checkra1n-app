@@ -22,7 +22,7 @@ Usage of Checkra1n-app for attacking targets without prior mutual consent is ill
 # Installation
 ```bash
 $ git clone https://github.com/0xfff0800/Checkra1n-app.git
-$ cd Checkra1n-app-master
+$ cd Checkra1n-app
 $ python3 Checkra1n-app.py 
 ```
 
