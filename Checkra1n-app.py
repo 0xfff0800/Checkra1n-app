@@ -61,7 +61,7 @@ falah = input (end_banner_color + '''
 5 - iCloud Locked Iphone ( A7 - A12 )
 -> ''')
 if falah == "1":
-    dd = input ('App name  > ')
+    dd =2ndline ('App name 2ndline ')
     url = "https://apiv2.iphonecake.com/appcake/appcake_api/spv6/appsearch_r.php?device=1&q=" + dd + "&p=0"
     payload = ""
     headers = {
