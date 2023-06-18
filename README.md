@@ -1,20 +1,13 @@
 # Checkra1n-app
-Download apps and remove icloud
 
 [![Version](https://img.shields.io/badge/Brutesploit-1.1.0-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Pretty-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
-## Legal disclaimer:
+### A GUI python app used to be an *.ipa downloader, which downloads apps/games from iphoneCake.
 
-Usage of Checkra1n-app for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
-
-<img src="https://k.top4top.io/p_20970vvmu1.png" width="600" height="400">
-
-### When you enter the App ID, you will see a download link in ipa format : 
-
-<img src="https://l.top4top.io/p_2097jk7ic2.png" width="600" height="400">
+<img src="https://j.top4top.io/p_2725bblac1.png" width="750">
 
 
 
@@ -26,37 +19,44 @@ $ cd Checkra1n-app
 $ python3 Checkra1n-app.py 
 ```
 
-# Usage
-```bash
-$ python3 Checkra1n-app.py 
+## Disclaimer
 
-==============================================
-[developer] => FaLaH - 0xfff0800 [developer_email] => flaaah777@gmail.com ) 
-[developer_snapchat] => flaah999
-==============================================
+ This has been created exclusively for educational purposes, and the end-user assumes all responsibilities if utilized improperly.
 
 
 
-1 - Search for an application
-2 - Search for an application ++
-3 - Install the app from ssh - pc 
-4 - Download the jailbreak - pc 
-5 - iCloud Locked Iphone ( A7 - A12 )
--> 
+## Features
 
-```
+- Show all search results rether than only first 5.
+- Empty search will list featured apps.
+- Select app to direcly download.
+- Enable downloading multiple apps within the same search, without the need to search again
+- Show a progress bar for the downloads in the terminal.
+- Downloaded app will be renamed using the app name, rather than the app ID.
+
+  
+.... More coming in future [**No ETA**] .
 
 
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.up-00.com/i/00176/4gu5yi4fwmgt.jpg)
+## Documentation
 
-## A Iphone operating system. We recommend :
-- Android - Trimix
-- Iphone - python ai 
-- Iphone - pythonista
+- To run the requirements script properly, you will need to give it full privileges by executing ```chmod +x requirements.sh``` .
+
+  This script will check Homebrew and Python, and then install all necessary libraries.
+
+- After giving privileges, run ```sh requirements.sh``` . (Remember to cd to file path).
+
+- After running requirements.sh , just run ```python3 Checkra1n-app.py```
+
+
+
+## A operating system. We recommend :
 - Linux 
-- Windows 
+- Windows
+- Mac
+  
+## iphone Jailbreak ? :
+Install file ```Checkra1n-app.deb```
 
 ## BUG ? 
 - Please Submit new issue 
@@ -66,5 +66,11 @@ $ python3 Checkra1n-app.py
 
  ## snapchat me
  > flaah999 : Click [Here](https://www.snapchat.com/add/flaah999) (Quick add)
- 
+
+ ## Thanks 
+ DangerousPixel
+ > Website : Click [Here](https://dpixel.co)
+ > Telegram : Click [Here](https://t.me/xdanpixel)
+ > IPA Library : Click [Here](https://t.me/dpixel)
+
  
