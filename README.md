@@ -56,7 +56,7 @@ $ python3 Checkra1n-app.py
 - Mac
   
 ## iphone Jailbreak ? :
-Install file ```Checkra1n-app.deb```
+Install ```Checkra1n-app.deb``` file on your iPhone 
 
 ## BUG ? 
 - Please Submit new issue 
