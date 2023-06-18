@@ -68,9 +68,14 @@ Install ```Checkra1n-app.deb``` file on your iPhone
  > flaah999 : Click [Here](https://www.snapchat.com/add/flaah999) (Quick add)
 
  ## Thanks 
- DangerousPixel
- > Website : Click [Here](https://dpixel.co)
- > Telegram : Click [Here](https://t.me/xdanpixel)
- > IPA Library : Click [Here](https://t.me/dpixel)
+ [![Stargazers repo roster for @DangerousPixel/MailFinder](https://k.top4top.io/p_2725b9roc1.png)](https://github.com/DangerousPixel)
 
- 
+ > Click :
+ > [Website](https://dpixel.co)
+ > [Telegram](https://t.me/xdanpixel)
+ > [IPA Library](https://t.me/dpixel)
+
+ [![Stargazers repo roster for @Asdfzxcvbn/MailFinder](https://l.top4top.io/p_27259imri2.png)](https://github.com/asdfzxcvbn)
+
+ > Click :
+ > [Website](https://zxcvbn.fyi/)
